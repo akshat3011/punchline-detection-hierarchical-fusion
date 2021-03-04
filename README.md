@@ -1,7 +1,10 @@
 # punchline-detection-hierarchical-fusion
 Please read the following paper for details regarding the context-aware hierarchical multimodal fusion model.
 
-link to the paper to be added
+
+Akshat Choube, Mohammad Soleymani, “Punchline Detection using Context-Aware Hierarchical Multimodal Fusion”, International Conference on Multimodal Interaction (ICMI), 2020.
+
+link: https://dl.acm.org/doi/10.1145/3382507.3418891?sid=SCITRUS
 
 ## Dataset
 UR-FUNNY dataset can be found [here](https://github.com/ROC-HCI/UR-FUNNY). humor_dataloader.py provides dataloader for the dataset.
